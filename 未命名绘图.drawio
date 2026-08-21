@@ -385,7 +385,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HZJ9KB2k0BdaeL3c6lJN-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="地下开采" vertex="1">
-          <mxGeometry height="30" width="810" x="10" as="geometry" />
+          <mxGeometry height="30" width="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
