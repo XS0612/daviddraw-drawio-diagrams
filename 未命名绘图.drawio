@@ -307,6 +307,12 @@
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-72" parent="1" style="whiteSpace=wrap;html=1;" value="稳定性监测：表面位移监测，深部位移监测，地下水监测，裂缝监测" vertex="1">
           <mxGeometry height="30" width="265" x="60" y="710" as="geometry" />
         </mxCell>
+        <mxCell id="UFMUTEeKRGwuUtpjpM2a-73" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="770" as="sourcePoint" />
+            <mxPoint x="40" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
