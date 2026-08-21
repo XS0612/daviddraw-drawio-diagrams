@@ -298,6 +298,15 @@
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="排土：将剥离的废石运送至排土场进行堆置" vertex="1">
           <mxGeometry height="20" width="235" x="15" y="630" as="geometry" />
         </mxCell>
+        <mxCell id="UFMUTEeKRGwuUtpjpM2a-70" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="单台阶排土场，覆盖式多台阶排土场，压坡角式多台阶排土场" vertex="1">
+          <mxGeometry height="20" width="340" x="60" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="UFMUTEeKRGwuUtpjpM2a-71" parent="1" style="whiteSpace=wrap;html=1;" value="公路运输，铁路运输，带式运输" vertex="1">
+          <mxGeometry height="20" width="170" x="60" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="UFMUTEeKRGwuUtpjpM2a-72" parent="1" style="whiteSpace=wrap;html=1;" value="稳定性监测：表面位移监测，深部位移监测，地下水监测，裂缝监测" vertex="1">
+          <mxGeometry height="30" width="265" x="60" y="710" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
