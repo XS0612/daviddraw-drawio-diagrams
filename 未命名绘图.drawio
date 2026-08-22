@@ -20,31 +20,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="穿孔" vertex="1">
-          <mxGeometry height="20" width="30" x="10" y="130" as="geometry" />
+          <mxGeometry height="20" width="30" x="10" y="110" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-12" edge="1" parent="1" source="rcGGxiaBbDWz_fW31ntW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rcGGxiaBbDWz_fW31ntW-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="爆破" vertex="1">
-          <mxGeometry height="20" width="30" x="103" y="130" as="geometry" />
+          <mxGeometry height="20" width="30" x="103" y="110" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-14" edge="1" parent="1" source="rcGGxiaBbDWz_fW31ntW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rcGGxiaBbDWz_fW31ntW-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="铲装" vertex="1">
-          <mxGeometry height="20" width="30" x="191.5" y="130" as="geometry" />
+          <mxGeometry height="20" width="30" x="191.5" y="110" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-16" edge="1" parent="1" source="rcGGxiaBbDWz_fW31ntW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rcGGxiaBbDWz_fW31ntW-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="运输" vertex="1">
-          <mxGeometry height="20" width="30" x="285" y="130" as="geometry" />
+          <mxGeometry height="20" width="30" x="285" y="110" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="排土" vertex="1">
-          <mxGeometry height="20" width="30" x="370" y="130" as="geometry" />
+          <mxGeometry height="20" width="30" x="370" y="110" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="露天采矿主要生产工艺" vertex="1">
-          <mxGeometry height="30" width="387" x="13" y="100" as="geometry" />
+          <mxGeometry height="30" width="387" x="13" y="80" as="geometry" />
         </mxCell>
         <mxCell id="rcGGxiaBbDWz_fW31ntW-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rcGGxiaBbDWz_fW31ntW-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -215,174 +215,174 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;方法&lt;/div&gt;&lt;div&gt;热力破碎穿孔：极坚硬岩石（金属矿山少用）&lt;/div&gt;&lt;div&gt;机械破碎穿孔：潜孔钻（中小矿山，冲击式机械破碎）、牙轮钻（大中矿山，滚压式）、凿岩台车（小）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="295" x="65" y="180" as="geometry" />
+          <mxGeometry height="60" width="295" x="65" y="170" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="技术参数&lt;div&gt;孔位，孔径，孔深，孔向，孔网参数，穿孔速度&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="265" x="65" y="260" as="geometry" />
+          <mxGeometry height="30" width="265" x="65" y="250" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-47" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="210" as="sourcePoint" />
-            <mxPoint x="65" y="210" as="targetPoint" />
+            <mxPoint x="40" y="200" as="sourcePoint" />
+            <mxPoint x="65" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-48" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-46" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="275" as="sourcePoint" />
-            <mxPoint x="405" y="300" as="targetPoint" />
+            <mxPoint x="40" y="265" as="sourcePoint" />
+            <mxPoint x="405" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-49" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="280" as="sourcePoint" />
-            <mxPoint x="40" y="178" as="targetPoint" />
+            <mxPoint x="40" y="270" as="sourcePoint" />
+            <mxPoint x="40" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;方法&lt;/div&gt;&lt;div&gt;浅孔爆破：修路，大块二次爆破，处理根底等&lt;/div&gt;&lt;div&gt;深孔爆破：露天台阶正常采掘方式&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="250" x="65" y="335" as="geometry" />
+          <mxGeometry height="40" width="250" x="65" y="325" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;技术参数&lt;/div&gt;&lt;div&gt;孔径，孔深，底盘抵抗线，孔距和排距，孔装药量和装药结构，填塞长度&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="200" x="65" y="395" as="geometry" />
+          <mxGeometry height="40" width="200" x="65" y="385" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-53" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="355" as="sourcePoint" />
-            <mxPoint x="65" y="355" as="targetPoint" />
+            <mxPoint x="40" y="345" as="sourcePoint" />
+            <mxPoint x="65" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-54" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-52" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="415" as="sourcePoint" />
-            <mxPoint x="65" y="420" as="targetPoint" />
+            <mxPoint x="40" y="405" as="sourcePoint" />
+            <mxPoint x="65" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-55" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="420" as="sourcePoint" />
-            <mxPoint x="40" y="335" as="targetPoint" />
+            <mxPoint x="40" y="410" as="sourcePoint" />
+            <mxPoint x="40" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="穿孔：在台阶区穿凿炮孔，为爆破提供装药空间，占总成本10-15%" vertex="1">
-          <mxGeometry height="20" width="360" x="10" y="160" as="geometry" />
+          <mxGeometry height="20" width="360" x="10" y="150" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="爆破：通过炸药破碎岩石，形成爆堆，便于后续采装，每次爆量满 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;足挖掘机5-10昼夜采装需求" vertex="1">
-          <mxGeometry height="30" width="350" x="10" y="305" as="geometry" />
+          <mxGeometry height="30" width="350" x="10" y="295" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="铲装：用挖掘设备将矿岩从爆堆转运至运输工具&lt;div&gt;运输：将矿石运往（贮矿厂、破碎站）选矿厂，岩石运往排土场&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="350" x="15" y="450" as="geometry" />
+          <mxGeometry height="30" width="350" x="15" y="440" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-62" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="600" as="sourcePoint" />
-            <mxPoint x="40" y="480" as="targetPoint" />
+            <mxPoint x="40" y="590" as="sourcePoint" />
+            <mxPoint x="40" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-63" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;铲装包括单斗挖掘机、轮斗铲、前端式装载机、电耙等。&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;车铲比是衡量匹配程度的重要参数。车铲比过大，铲装设备利用率低；车铲比过小，运输设备等待时间长。&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;技术参数：台阶高度，工作平台宽度，采掘带宽度，开采顺序，边坡角等。&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3B%22%20value%3D%22%26lt%3Bdiv%20style%3D%26quot%3Btext-align%3A%20center%3B%26quot%3B%26gt%3B%E6%96%B9%E6%B3%95%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%E6%B5%85%E5%AD%94%E7%88%86%E7%A0%B4%EF%BC%9A%E4%BF%AE%E8%B7%AF%EF%BC%8C%E5%A4%A7%E5%9D%97%E4%BA%8C%E6%AC%A1%E7%88%86%E7%A0%B4%EF%BC%8C%E5%A4%84%E7%90%86%E6%A0%B9%E5%BA%95%E7%AD%89%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%E6%B7%B1%E5%AD%94%E7%88%86%E7%A0%B4%EF%BC%9A%E9%9C%B2%E5%A4%A9%E5%8F%B0%E9%98%B6%E6%AD%A3%E5%B8%B8%E9%87%87%E6%8E%98%E6%96%B9%E5%BC%8F%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2240%22%20width%3D%22250%22%20x%3D%2265%22%20y%3D%22335%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E包括单斗挖掘机、轮斗铲、前端式装载机、电耙等包括单斗挖掘机、轮斗铲、前端式装载机、电耙等包括单斗挖掘机、轮斗铲、前端式装载机、电耙等包括单斗挖掘机、轮斗铲、前端式来看&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="310" x="60" y="495" as="geometry" />
+          <mxGeometry height="70" width="310" x="60" y="485" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-66" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="运输设备：公路运输（矿卡），铁路运输，带式运输。&lt;div&gt;技术参数：道路宽度，路面结构，安全挡墙，道路维护等。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="325" x="60" y="580" as="geometry" />
+          <mxGeometry height="30" width="325" x="60" y="570" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-67" edge="1" parent="1" source="UFMUTEeKRGwuUtpjpM2a-63" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="350" y="490" as="sourcePoint" />
-            <mxPoint x="40" y="530" as="targetPoint" />
+            <mxPoint x="350" y="480" as="sourcePoint" />
+            <mxPoint x="40" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-68" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-66" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="595" as="sourcePoint" />
-            <mxPoint x="65" y="600" as="targetPoint" />
+            <mxPoint x="40" y="585" as="sourcePoint" />
+            <mxPoint x="65" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="排土：将剥离的废石运送至排土场进行堆置" vertex="1">
-          <mxGeometry height="20" width="235" x="15" y="630" as="geometry" />
+          <mxGeometry height="20" width="235" x="15" y="620" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-70" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="单台阶排土场，覆盖式多台阶排土场，压坡角式多台阶排土场" vertex="1">
           <mxGeometry height="20" width="340" x="60" y="650" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-71" parent="1" style="whiteSpace=wrap;html=1;" value="公路运输，铁路运输，带式运输" vertex="1">
-          <mxGeometry height="20" width="170" x="60" y="680" as="geometry" />
+          <mxGeometry height="20" width="170" x="60" y="670" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-72" parent="1" style="whiteSpace=wrap;html=1;" value="稳定性监测：表面位移监测，深部位移监测，地下水监测，裂缝监测" vertex="1">
-          <mxGeometry height="30" width="265" x="60" y="710" as="geometry" />
+          <mxGeometry height="30" width="265" x="60" y="700" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-73" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="730" as="sourcePoint" />
-            <mxPoint x="40" y="650" as="targetPoint" />
+            <mxPoint x="40" y="720" as="sourcePoint" />
+            <mxPoint x="40" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UFMUTEeKRGwuUtpjpM2a-74" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-70" value="">
+        <mxCell id="UFMUTEeKRGwuUtpjpM2a-74" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="660" as="sourcePoint" />
-            <mxPoint x="400" y="660" as="targetPoint" />
+            <mxPoint x="40" y="650" as="sourcePoint" />
+            <mxPoint x="60" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-75" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-71" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="690" as="sourcePoint" />
-            <mxPoint x="400" y="660" as="targetPoint" />
+            <mxPoint x="40" y="680" as="sourcePoint" />
+            <mxPoint x="400" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-76" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-72" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="725" as="sourcePoint" />
-            <mxPoint x="400" y="660" as="targetPoint" />
+            <mxPoint x="40" y="715" as="sourcePoint" />
+            <mxPoint x="400" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="辅助工程与系统" vertex="1">
-          <mxGeometry height="30" width="60" x="397" y="560" as="geometry" />
+          <mxGeometry height="30" width="60" x="396" y="550" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-78" parent="1" style="whiteSpace=wrap;html=1;" value="防水与排水：地面截水沟，采场排水沟，集水坑和泵站，疏干井，防渗帷幕" vertex="1">
-          <mxGeometry height="30" width="274" x="487" y="560" as="geometry" />
+          <mxGeometry height="30" width="274" x="486" y="550" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-79" parent="1" style="whiteSpace=wrap;html=1;" value="边坡管理：设计合理边坡角（最终边坡角和工作帮坡角），控制爆破震动，排水疏干，人工加固，监测预警" vertex="1">
-          <mxGeometry height="30" width="340" x="487" y="605" as="geometry" />
+          <mxGeometry height="30" width="340" x="486" y="595" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-80" edge="1" parent="1" source="UFMUTEeKRGwuUtpjpM2a-78" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-77" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="481" y="574.52" as="sourcePoint" />
-            <mxPoint x="461" y="575" as="targetPoint" />
+            <mxPoint x="480" y="564.52" as="sourcePoint" />
+            <mxPoint x="460" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-81" parent="1" style="whiteSpace=wrap;html=1;" value="通风防尘与环保" vertex="1">
-          <mxGeometry height="20" width="86" x="487" y="650" as="geometry" />
+          <mxGeometry height="20" width="86" x="486" y="640" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-82" parent="1" style="whiteSpace=wrap;html=1;" value="维护与检修" vertex="1">
-          <mxGeometry height="20" width="70" x="487" y="685" as="geometry" />
+          <mxGeometry height="20" width="70" x="486" y="675" as="geometry" />
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-83" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="471" y="735" as="sourcePoint" />
-            <mxPoint x="471" y="575" as="targetPoint" />
+            <mxPoint x="470" y="725" as="sourcePoint" />
+            <mxPoint x="470" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-85" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-79" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="471" y="620" as="sourcePoint" />
-            <mxPoint x="411" y="615" as="targetPoint" />
+            <mxPoint x="470" y="610" as="sourcePoint" />
+            <mxPoint x="410" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-81" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="471" y="660" as="sourcePoint" />
-            <mxPoint x="457" y="725" as="targetPoint" />
+            <mxPoint x="470" y="650" as="sourcePoint" />
+            <mxPoint x="456" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UFMUTEeKRGwuUtpjpM2a-87" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UFMUTEeKRGwuUtpjpM2a-82" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="471" y="695" as="sourcePoint" />
-            <mxPoint x="481" y="695" as="targetPoint" />
+            <mxPoint x="470" y="685" as="sourcePoint" />
+            <mxPoint x="480" y="685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1eK3CsqBaLRkgymGZ8W-3" parent="1" style="whiteSpace=wrap;html=1;" value="供水供电系统" vertex="1">
-          <mxGeometry height="20" width="86" x="487" y="720" as="geometry" />
+          <mxGeometry height="20" width="86" x="486" y="710" as="geometry" />
         </mxCell>
         <mxCell id="H1eK3CsqBaLRkgymGZ8W-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="H1eK3CsqBaLRkgymGZ8W-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="471" y="730" as="sourcePoint" />
-            <mxPoint x="411" y="425" as="targetPoint" />
+            <mxPoint x="470" y="720" as="sourcePoint" />
+            <mxPoint x="410" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1eK3CsqBaLRkgymGZ8W-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="露天矿山工程准备" vertex="1">
