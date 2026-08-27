@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="XD39xYPRD1lJzV7N31CV">
+    <mxGraphModel dx="964" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="选矿厂" vertex="1">
+          <mxGeometry height="20" width="820" x="4" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="主要工艺流程（矿石流向）" vertex="1">
+          <mxGeometry height="20" width="150" x="80" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-7" edge="1" parent="1" source="eSH3I_ppiklkPBLh0rZZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSH3I_ppiklkPBLh0rZZ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-3" parent="1" style="whiteSpace=wrap;html=1;" value="主井" vertex="1">
+          <mxGeometry height="20" width="30" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-10" edge="1" parent="1" source="eSH3I_ppiklkPBLh0rZZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSH3I_ppiklkPBLh0rZZ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-6" parent="1" style="whiteSpace=wrap;html=1;" value="中细碎车间" vertex="1">
+          <mxGeometry height="20" width="70" x="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1号皮带" vertex="1">
+          <mxGeometry height="20" width="50" x="190" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-12" edge="1" parent="1" source="eSH3I_ppiklkPBLh0rZZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSH3I_ppiklkPBLh0rZZ-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-9" parent="1" style="whiteSpace=wrap;html=1;" value="筛分车间" vertex="1">
+          <mxGeometry height="20" width="50" x="270" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-14" edge="1" parent="1" source="eSH3I_ppiklkPBLh0rZZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSH3I_ppiklkPBLh0rZZ-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-11" parent="1" style="whiteSpace=wrap;html=1;" value="粉矿仓" vertex="1">
+          <mxGeometry height="20" width="40" x="400" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-19" edge="1" parent="1" source="eSH3I_ppiklkPBLh0rZZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSH3I_ppiklkPBLh0rZZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-20" edge="1" parent="1" source="eSH3I_ppiklkPBLh0rZZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSH3I_ppiklkPBLh0rZZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-13" parent="1" style="whiteSpace=wrap;html=1;" value="磨浮车间&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="60" x="520" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-17" parent="1" style="whiteSpace=wrap;html=1;" value="尾矿浓密机" vertex="1">
+          <mxGeometry height="20" width="70" x="754" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eSH3I_ppiklkPBLh0rZZ-18" parent="1" style="whiteSpace=wrap;html=1;" value="精矿浓密机" vertex="1">
+          <mxGeometry height="20" width="70" x="660" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
